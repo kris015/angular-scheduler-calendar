@@ -1,2 +1,5 @@
 # angular-scheduler-calendar
-npm install -g @angular/cli   ----  npm install  ---------- ng serve
+HOW TO RUN: 
+1. npm install -g @angular/cli
+2. npm install
+3. ng serve
